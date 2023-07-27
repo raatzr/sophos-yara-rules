@@ -1,0 +1,1 @@
+# sophos-yara-rules
