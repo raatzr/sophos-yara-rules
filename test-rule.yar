@@ -4,7 +4,7 @@ rule testrule
     desc = "Testrule"
     weight = 1
   strings:
-    $a = "This is a test file"
+    $a = "findme"
   condition:
     $a
 }
