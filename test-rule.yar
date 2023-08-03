@@ -1,5 +1,3 @@
-import "hash"
-
 rule testrule
 {
   meta:
